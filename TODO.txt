@@ -1,1 +1,5 @@
 texte de mon todo 2
+
+
+Application lourde
+Technologie Swing
