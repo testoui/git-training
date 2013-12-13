@@ -3,3 +3,6 @@ texte de mon todo 2 2
 
 TECHNOLOGIES WEB : 
 JSF
+
+Application lourde
+Technologie Swing
